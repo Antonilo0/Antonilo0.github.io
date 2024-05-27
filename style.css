@@ -1,0 +1,20 @@
+.encabezado{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,61,1) 54%, rgba(0,212,255,1) 93%);
+}
+
+.encabezado h1, h2{
+    color:white;
+}
+
+.columna2 img{
+    transition: transform 1s ease-in-out;
+}
+
+.columna2 img:hover{
+    transform: scale(1.5);
+}
+
+.filaForm{
+    width: 60%;
+}

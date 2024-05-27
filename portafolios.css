@@ -1,0 +1,24 @@
+.menu{
+    background-color: white;
+}
+
+.header{
+    background-color: brown;
+}
+
+.columna2 img{
+    transition: transform 1s ease-in-out;
+}
+
+.columna2 img:hover{
+    transform: scale(1.5);
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif
+}
+
+
+h2{
+    text-align: center;
+}
